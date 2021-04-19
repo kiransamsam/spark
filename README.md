@@ -23,7 +23,7 @@ The code works if I remove the column ArrayOfString. But I need to keep ArrayOfS
 
 What would be the best way to dump the csv dataframe including column ArrayOfString
 
-For more spark question check this website Spark Course<a href="https://intellipaat.com/apache-spark-scala-training/">Spark Course</a>
+For more spark question check this website <a href="https://intellipaat.com/apache-spark-scala-training/">Spark Course</a>
 
 <H2>Answer</h2>
 As the error says, The CSV file format doesn't support array type.
